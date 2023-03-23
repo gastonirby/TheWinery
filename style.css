@@ -119,3 +119,9 @@ video {
   cursor: pointer;
   visibility: hidden;
 }
+
+@media(max-width:800px){
+  h1 {
+    font-size: 6rem;
+  }
+}
