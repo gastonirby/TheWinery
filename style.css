@@ -133,7 +133,18 @@ video {
 }
 
 @media(max-width:500px){
+  .home-content {
+    /* width: 60%; */
+    /* margin: 5%; */
+  }
   .home-content h1 {
     font-size: 2rem;
+  }
+  nav a {
+    font-size: 1.5rem;
+  }
+
+  nav img {
+    width: 2rem;
   }
 }
